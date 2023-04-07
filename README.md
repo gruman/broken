@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+  /*"homepage": "https://apps.gruman.co/broken-id",*/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
